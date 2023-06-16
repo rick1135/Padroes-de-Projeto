@@ -1,0 +1,6 @@
+com\mycompany\decorators\CompressionDecorator.class
+com\mycompany\decorators\DataSourceDecorator.class
+com\mycompany\decorators\FileDataSource.class
+com\mycompany\decorators\EncryptionDecorator.class
+com\mycompany\decorators\DataSource.class
+com\mycompany\decorators\Demo.class
